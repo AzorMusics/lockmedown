@@ -1,0 +1,13 @@
+C:\Users\antho\source\repos\LockMeDown\LockMeDown\bin\Debug\netcoreapp3.1\LockMeDown.exe
+C:\Users\antho\source\repos\LockMeDown\LockMeDown\bin\Debug\netcoreapp3.1\LockMeDown.deps.json
+C:\Users\antho\source\repos\LockMeDown\LockMeDown\bin\Debug\netcoreapp3.1\LockMeDown.runtimeconfig.json
+C:\Users\antho\source\repos\LockMeDown\LockMeDown\bin\Debug\netcoreapp3.1\LockMeDown.runtimeconfig.dev.json
+C:\Users\antho\source\repos\LockMeDown\LockMeDown\bin\Debug\netcoreapp3.1\LockMeDown.dll
+C:\Users\antho\source\repos\LockMeDown\LockMeDown\bin\Debug\netcoreapp3.1\LockMeDown.pdb
+C:\Users\antho\source\repos\LockMeDown\LockMeDown\obj\Debug\netcoreapp3.1\LockMeDown.csprojAssemblyReference.cache
+C:\Users\antho\source\repos\LockMeDown\LockMeDown\obj\Debug\netcoreapp3.1\LockMeDown.AssemblyInfoInputs.cache
+C:\Users\antho\source\repos\LockMeDown\LockMeDown\obj\Debug\netcoreapp3.1\LockMeDown.AssemblyInfo.cs
+C:\Users\antho\source\repos\LockMeDown\LockMeDown\obj\Debug\netcoreapp3.1\LockMeDown.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\LockMeDown\LockMeDown\obj\Debug\netcoreapp3.1\LockMeDown.dll
+C:\Users\antho\source\repos\LockMeDown\LockMeDown\obj\Debug\netcoreapp3.1\LockMeDown.pdb
+C:\Users\antho\source\repos\LockMeDown\LockMeDown\obj\Debug\netcoreapp3.1\LockMeDown.genruntimeconfig.cache
